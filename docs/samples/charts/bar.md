@@ -3,7 +3,7 @@
 ```js chart-editor
 // <block:setup:2>
 var DATA_COUNT = 10;
-var labels = [];
+var labels = [];  
 
 Utils.srand(2);
 
